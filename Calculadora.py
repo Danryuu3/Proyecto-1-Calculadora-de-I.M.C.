@@ -58,5 +58,6 @@ else:
 imc = float(weight) / float(height) ** 2
 
 print(" \n Tu nombre completo es: " + name + " " + firts_name + " " + last_name + " y tienes " + age + " años")
+print(" Tu peso es " + weight + " y tu estatura es " + height + " por lo tanto:")
 print(f" Tu IMC es {imc:1,.2f} \n")
 print("|******************************************************************************************|")
